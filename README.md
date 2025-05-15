@@ -54,6 +54,9 @@ Fun fact: I was once a **professional e-sports player** for a North American tea
 #### 🔹 [BAG_Automation_HUB](https://github.com/MateusRestier/BAG_Automation_HUB)
 > Centralized collection of Python automation scripts running on the company server. Handles recurring tasks like data extraction, report generation, system updates, and integrations across platforms.
 
+#### 🔹 [BAG_ZendeskScrap](https://github.com/MateusRestier/BAG_ZendeskScrap)
+> Automates Zendesk data extraction via API and Selenium, cleans it with pandas, and inserts into SQL Server in batches. Includes deduplication and optional Excel export. Designed for daily ETL of tickets, assignments, and activities.
+
 #### 🔹 [VenvCreation](https://github.com/MateusRestier/VenvCreation) 
 > A simple .bat file that creates a virtual environment (venv), installs all dependencies listed in requirements.txt, and activates the environment.
 
