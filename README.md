@@ -54,6 +54,12 @@ Fun fact: I was once a **professional e-sports player** for a North American tea
 #### 🔹 [BAG_Automation_HUB](https://github.com/MateusRestier/BAG_Automation_HUB)
 > Centralized collection of Python automation scripts running on the company server. Handles recurring tasks like data extraction, report generation, system updates, and integrations across platforms.
 
+#### 🔹 [VenvCreation](https://github.com/MateusRestier/VenvCreation) 
+> A simple .bat file that creates a virtual environment (venv), installs all dependencies listed in requirements.txt, and activates the environment.
+
+#### 🔹 [Auto-Keyboard-Typing](https://github.com/MateusRestier/Auto-Keyboard-Typing)
+> A simple program to type whatever you want, usefull in sites where the crtlV are locked.
+
 ---
 
 ### 🎯 Currently Focused On
