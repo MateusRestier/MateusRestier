@@ -45,16 +45,16 @@ Fun fact: I was once a **professional e-sports player** for a North American tea
 
 ### 🚀 Featured Projects
 
-#### 🔹 [BAG_Fiscal_Automation_Suite](https://github.com/MateusRestier/BAG_Fiscal_Automation_Suite)
+#### 🔹 [Fiscal_Automation_Suite](https://github.com/MateusRestier/Fiscal_Automation_Suite)
 > Set of automations to support the fiscal team in daily tasks. Includes ICMS guide issuance, tax calculations, PDF parsing, productivity analysis, web scraping, and data integration with SQL Server and state systems like SEFAZ and Econet.
 
-#### 🔹 [BAG_REDE_Financial_ETL](https://github.com/MateusRestier/BAG_REDE_Financial_ETL)
+#### 🔹 [REDE_Financial_ETL](https://github.com/MateusRestier/REDE_Financial_ETL)
 > Automates data extraction from Rede's API for sales, payments, receivables, and installments. Processes data daily, weekly, or monthly and stores it in SQL Server. Supports deduplication, batching, and reprocessing of historical data.
 
-#### 🔹 [BAG_Automation_HUB](https://github.com/MateusRestier/BAG_Automation_HUB)
+#### 🔹 [Automation_HUB](https://github.com/MateusRestier/Automation_HUB)
 > Centralized collection of Python automation scripts running on the company server. Handles recurring tasks like data extraction, report generation, system updates, and integrations across platforms.
 
-#### 🔹 [BAG_ZendeskScrap](https://github.com/MateusRestier/BAG_ZendeskScrap)
+#### 🔹 [ZendeskScrap](https://github.com/MateusRestier/ZendeskScrap)
 > Automates Zendesk data extraction via API and Selenium, cleans it with pandas, and inserts into SQL Server in batches. Includes deduplication and optional Excel export. Designed for daily ETL of tickets, assignments, and activities.
 
 #### 🔹 [VenvCreation](https://github.com/MateusRestier/VenvCreation) 
