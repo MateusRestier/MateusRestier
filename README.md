@@ -45,6 +45,9 @@ Fun fact: I was once a **professional e-sports player** for a North American tea
 
 ### 🚀 Featured Projects
 
+#### 🔹 [Insight-Invest](https://github.com/MateusRestier/insight-invest)
+> End-to-end automated stock analysis, forecasting, and recommendation system using web scraping, RandomForest models, PostgreSQL, and an interactive Dash/Plotly dashboard.
+
 #### 🔹 [Fiscal_Automation_Suite](https://github.com/MateusRestier/Fiscal_Automation_Suite)
 > Set of automations to support the fiscal team in daily tasks. Includes ICMS guide issuance, tax calculations, PDF parsing, productivity analysis, web scraping, and data integration with SQL Server and state systems like SEFAZ and Econet.
 
