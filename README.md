@@ -55,7 +55,7 @@ Fun fact: I was once a **professional e-sports player** for a North American tea
 > Automates data extraction from Rede's API for sales, payments, receivables, and installments. Processes data daily, weekly, or monthly and stores it in SQL Server. Supports deduplication, batching, and reprocessing of historical data.
 
 #### 🔹 [Automation_HUB](https://github.com/MateusRestier/Automation_HUB)
-> Centralized collection of Python automation scripts running on the company server. Handles recurring tasks like data extraction, report generation, system updates, and integrations across platforms.
+> An intelligent Python orchestrator designed to schedule and run automations from a multi-repository environment. It's built for portability with dynamic path resolution, parallel processing, and automated reporting.
 
 #### 🔹 [ZendeskScrap](https://github.com/MateusRestier/ZendeskScrap)
 > Automates Zendesk data extraction via API and Selenium, cleans it with pandas, and inserts into SQL Server in batches. Includes deduplication and optional Excel export. Designed for daily ETL of tickets, assignments, and activities.
