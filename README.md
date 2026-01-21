@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Mateus 👋</h1>
 
 <p align="center">
-  <b>Data Analyst | Aspiring Data Scientist | Automation Enthusiast</b><br>
-  Passionate about turning data into insights that drive smart decisions 💡
+  <b>Data Scientist | AI & Cloud Data Engineering | Automation Enthusiast</b><br>
+  Specialize in Generative AI (RAG), Machine Learning, and Cloud Architectures (AWS/Snowflake), turning complex data into strategic insights 💡
 </p>
 
 <p align="center">
@@ -18,27 +18,35 @@
 
 ### 🧠 About Me
 
-I'm a **Data Analyst** from Rio de Janeiro, Brazil 🇧🇷  
-Currently working at **Bagaggio**, where I build dashboards, automate workflows, and uncover insights using **Power BI**, **Python**, and **SQL**.
+I'm a **Data Scientist** based in Rio de Janeiro, Brazil 🇧🇷.  
+Currently, I work at **FGV IBRE**, focusing on **Generative AI**, **Machine Learning**, and **Data Engineering** within the **AWS** ecosystem. My work involves building advanced NLP pipelines, developing classification models, and optimizing cloud data processes using **Snowflake** and **Streamlit**.
 
-I'm passionate about **data analysis**, **automation**, and on the path toward becoming a **data scientist**, with a practical focus on solving business challenges.
+I hold a **B.Sc. in Computer Science** and have a strong background in automating business processes and BI from my previous experiences at **Bagaggio** and **Enel**.
 
-Previously, I worked in **IT Audit** at Enel Brasil.  
-Fun fact: I was once a **professional e-sports player** for a North American team — where I developed resilience, sharp communication, and strong analytical skills 🎮.
+**Fun fact:** Before diving into data, I was a **professional e-sports player**, a journey that sharpened my resilience, strategic thinking, and ability to perform under high pressure 🎮.
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Languages & Frameworks**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+**Cloud & Data Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
@@ -70,16 +78,16 @@ Fun fact: I was once a **professional e-sports player** for a North American tea
 
 ### 🎯 Currently Focused On
 
-- Improving data storytelling through Power BI & Python  
-- Exploring practical machine learning applications  
-- Designing scalable and maintainable automation pipelines  
-- Connecting business strategy to analytics
+- 🤖 **Generative AI & RAG:** Building systems that combine LLMs with external data sources for specialized context.
+- 🧠 **Machine Learning:** Applying algorithms and models for classification, prediction, and pattern identification in complex datasets.
+- ☁️ **Cloud Architecture:** Optimizing data pipelines and efficiency on **AWS** and **Snowflake**.
+- 📊 **Scalable ETL:** Ensuring high-performance data processing for large-scale indicators.
 
 ---
 
 ### 🤝 Let's Connect!
 
-Whether it's about **data, dashboards, automation, or a cool dataset to explore**, I'm always happy to connect!  
+Whether it's about **AI, Cloud Engineering, Automation, or Retro Gaming**, I'm always happy to chat!  
 📬 [LinkedIn](https://www.linkedin.com/in/mateus-restier) | ✉️ restier2001@gmail.com
 
 ---
