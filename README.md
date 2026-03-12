@@ -56,10 +56,10 @@ I hold a **B.Sc. in Computer Science** and have a strong background in automatin
 #### 🔹 [Insight-Invest](https://github.com/MateusRestier/insight-invest)
 > End-to-end automated stock analysis, forecasting, and recommendation system using web scraping, RandomForest models, PostgreSQL, and an interactive Dash/Plotly dashboard.
 
-#### 🔹 [Sound DNA]([https://github.com/MateusRestier/Fiscal_Automation_Suite](https://github.com/MateusRestier/sound-dna))
+#### 🔹 [Sound DNA](https://github.com/MateusRestier/sound-dna)
 > End-to-end pipeline for music genre classification: YouTube ingestion (yt-dlp), 369 audio features via DSP (librosa), ML models (XGBoost/Random Forest), and a Streamlit app with interactive spectral analysis + genre prediction.
 
-#### 🔹 [Joybind]([[https://github.com/MateusRestier/Fiscal_Automation_Suite](https://github.com/MateusRestier/sound-dna](https://github.com/MateusRestier/joybind)))
+#### 🔹 [Joybind](https://github.com/MateusRestier/joybind)
 > JoyBind maps controller buttons to custom keyboard strokes and absolute screen coordinates. Built with Python to simplify and automate macro interactions in games.
 
 #### 🔹 [VenvCreation](https://github.com/MateusRestier/VenvCreation) 
