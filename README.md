@@ -51,28 +51,36 @@ I hold a **B.Sc. in Computer Science** and have a strong background in automatin
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (Public)
 
 #### 🔹 [Insight-Invest](https://github.com/MateusRestier/insight-invest)
 > End-to-end automated stock analysis, forecasting, and recommendation system using web scraping, RandomForest models, PostgreSQL, and an interactive Dash/Plotly dashboard.
 
-#### 🔹 [Fiscal_Automation_Suite](https://github.com/MateusRestier/Fiscal_Automation_Suite)
-> Set of automations to support the fiscal team in daily tasks. Includes ICMS guide issuance, tax calculations, PDF parsing, productivity analysis, web scraping, and data integration with SQL Server and state systems like SEFAZ and Econet.
+#### 🔹 [Sound DNA]([https://github.com/MateusRestier/Fiscal_Automation_Suite](https://github.com/MateusRestier/sound-dna))
+> End-to-end pipeline for music genre classification: YouTube ingestion (yt-dlp), 369 audio features via DSP (librosa), ML models (XGBoost/Random Forest), and a Streamlit app with interactive spectral analysis + genre prediction.
 
-#### 🔹 [REDE_Financial_ETL](https://github.com/MateusRestier/REDE_Financial_ETL)
-> Automates data extraction from Rede's API for sales, payments, receivables, and installments. Processes data daily, weekly, or monthly and stores it in SQL Server. Supports deduplication, batching, and reprocessing of historical data.
-
-#### 🔹 [Automation_HUB](https://github.com/MateusRestier/Automation_HUB)
-> An intelligent Python orchestrator designed to schedule and run automations from a multi-repository environment. It's built for portability with dynamic path resolution, parallel processing, and automated reporting.
-
-#### 🔹 [ZendeskScrap](https://github.com/MateusRestier/ZendeskScrap)
-> Automates Zendesk data extraction via API and Selenium, cleans it with pandas, and inserts into SQL Server in batches. Includes deduplication and optional Excel export. Designed for daily ETL of tickets, assignments, and activities.
+#### 🔹 [Joybind]([[https://github.com/MateusRestier/Fiscal_Automation_Suite](https://github.com/MateusRestier/sound-dna](https://github.com/MateusRestier/joybind)))
+> JoyBind maps controller buttons to custom keyboard strokes and absolute screen coordinates. Built with Python to simplify and automate macro interactions in games.
 
 #### 🔹 [VenvCreation](https://github.com/MateusRestier/VenvCreation) 
 > A simple .bat file that creates a virtual environment (venv), installs all dependencies listed in requirements.txt, and activates the environment.
 
 #### 🔹 [Auto-Keyboard-Typing](https://github.com/MateusRestier/Auto-Keyboard-Typing)
 > A simple program to type whatever you want, usefull in sites where the crtlV are locked.
+
+### 🚀 Featured Projects (Private)
+
+#### 🔹 [automated-economic-releases](https://www.linkedin.com/in/mateus-restier/details/projects/)
+> Automated bulletin generation for economic indicators (INCC-M, IGP-M, IGP-DI, ICOMEX): Excel ingestion, LLM-driven narrative writing, and Word (.docx) rendering via docxtpl — with a Streamlit UI for operator input.
+
+#### 🔹 [CompetitorAnalysis](https://www.linkedin.com/in/mateus-restier/details/projects/)
+> Competitor analysis automation pipeline: web scraping, data consolidation, and structured reporting to support strategic pricing and market positioning decisions.
+
+#### 🔹 [document-vector-pipeline](https://www.linkedin.com/in/mateus-restier/details/projects/)
+> ETL pipeline for document vectorization: ingests raw files, extracts and chunks text, generates embeddings, and stores them in a vector database for downstream semantic search and retrieval.
+
+#### 🔹 [rag-framework](https://www.linkedin.com/in/mateus-restier/details/projects/)
+> Modular Retrieval-Augmented Generation (RAG) framework integrating vector search with LLM inference to answer queries grounded in private document collections.
 
 ---
 
