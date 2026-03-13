@@ -68,6 +68,9 @@ I hold a **B.Sc. in Computer Science** and have a strong background in automatin
 #### 🔹 [sound-dna](https://github.com/MateusRestier/sound-dna) 🔓
 > End-to-end pipeline for music genre classification: YouTube ingestion (yt-dlp), 369 audio features via DSP (librosa), ML models (XGBoost/Random Forest), and a Streamlit app with interactive spectral analysis + genre prediction.
 
+#### 🔹 [football-dataops-lakehouse](https://github.com/MateusRestier/football-dataops-lakehouse) 🔓
+> Local football data lakehouse simulating AWS architecture (S3 → Athena → MWAA) using MinIO, DuckDB, Dagster, and Great Expectations — ingesting StatsBomb open data through a medallion pipeline (raw → validated → trusted).
+
 #### 🔹 [competitor-analysis](https://www.linkedin.com/in/mateus-restier/details/projects/) 🔒
 > Competitor analysis automation pipeline: web scraping, data consolidation, and structured reporting to support strategic pricing and market positioning decisions.
 
