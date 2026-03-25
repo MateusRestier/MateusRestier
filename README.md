@@ -69,10 +69,10 @@ I hold a **B.Sc. in Computer Science** and have a strong background in automatin
 > Automated bulletin generation for economic indicators (INCC-M, IGP-M, IGP-DI, ICOMEX): Excel ingestion, LLM-driven narrative writing, and Word (.docx) rendering via docxtpl — with a Streamlit UI for operator input.
 
 #### 🔹 [document-vector-pipeline](https://www.linkedin.com/in/mateus-restier/details/projects/) 🔒
-> ETL pipeline for document vectorization: ingests raw files, extracts and chunks text, generates embeddings, and stores them in a vector database for downstream semantic search and retrieval.
+> Production ETL pipeline for vectorizing Portuguese-language journalism and economic articles from MongoDB. Handles noisy, informal text with spaCy lemmatization and NLTK stopword removal, storing dense embeddings in Qdrant for semantic search. Designed for large corpora with streaming mode, AWS DocumentDB compatibility, and multi-collection batch processing.
 
 #### 🔹 [rag-framework](https://www.linkedin.com/in/mateus-restier/details/projects/) 🔒
-> Modular Retrieval-Augmented Generation (RAG) framework integrating vector search with LLM inference to answer queries grounded in private document collections.
+> LangGraph-orchestrated RAG framework for enriching economic analysis text with contextual information from a Qdrant vector store. Uses LLM-based relevance validation to prevent low-quality augmentation, with multi-query generation, configurable quality thresholds, and Azure OpenAI integration. Built for AWS SageMaker deployment.
 
 #### 🔹 [sound-dna](https://github.com/MateusRestier/sound-dna) 🔓
 > End-to-end pipeline for music genre classification: YouTube ingestion (yt-dlp), 369 audio features via DSP (librosa), ML models (XGBoost/Random Forest), and a Streamlit app with interactive spectral analysis + genre prediction.
