@@ -56,6 +56,15 @@ I hold a **B.Sc. in Computer Science** and have a strong background in automatin
 #### 🔹 [Insight-Invest](https://github.com/MateusRestier/insight-invest) 🔓
 > End-to-end automated stock analysis, forecasting, and recommendation system using web scraping, RandomForest models, PostgreSQL, and an interactive Dash/Plotly dashboard.
 
+#### 🔹 [copom-vector-pipeline](https://github.com/MateusRestier/copom-vector-pipeline) 🔓
+> ETL pipeline that downloads COPOM meeting minutes and policy communications from the BCB Open Data API, parses PDFs, chunks and embeds text using Google Gemini, and stores vector embeddings in PostgreSQL + pgvector.
+
+#### 🔹 [copom-rag-api](https://github.com/MateusRestier/copom-rag-api) 🔓
+> RAG API for question answering over COPOM (Brazilian Monetary Policy Committee) documents. Retrieves relevant chunks via pgvector cosine search and generates answers with Google Gemini.
+
+#### 🔹 [copom-streamlit](https://github.com/MateusRestier/copom-streamlit) 🔓
+> Streamlit web app for the COPOM RAG system. Q&A interface over COPOM meeting minutes and policy communications, plus an admin panel to manage document ingestion. Consumes the copom-rag-api REST API.
+
 #### 🔹 [automated-economic-releases](https://www.linkedin.com/in/mateus-restier/details/projects/) 🔒
 > Automated bulletin generation for economic indicators (INCC-M, IGP-M, IGP-DI, ICOMEX): Excel ingestion, LLM-driven narrative writing, and Word (.docx) rendering via docxtpl — with a Streamlit UI for operator input.
 
@@ -76,12 +85,6 @@ I hold a **B.Sc. in Computer Science** and have a strong background in automatin
 
 #### 🔹 [joybind](https://github.com/MateusRestier/joybind) 🔓
 > JoyBind maps controller buttons to custom keyboard strokes and absolute screen coordinates. Built with Python to simplify and automate macro interactions in games.
-
-#### 🔹 [venv-creation](https://github.com/MateusRestier/venv-creation)  🔓
-> A simple .bat file that creates a virtual environment (venv), installs all dependencies listed in requirements.txt, and activates the environment.
-
-#### 🔹 [auto-keyboard-typing](https://github.com/MateusRestier/auto-keyboard-typing) 🔓
-> A simple program to type whatever you want, usefull in sites where the crtlV are locked.
 
 ---
 
