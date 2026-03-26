@@ -71,7 +71,7 @@ I hold a **B.Sc. in Computer Science** and have a strong background in automatin
 #### 🔹 [document-vector-pipeline](https://www.linkedin.com/in/mateus-restier/details/projects/) 🔒
 > Production ETL pipeline for vectorizing Portuguese-language journalism and economic articles from MongoDB. Handles noisy, informal text with spaCy lemmatization and NLTK stopword removal, storing dense embeddings in Qdrant for semantic search. Designed for large corpora with streaming mode, AWS DocumentDB compatibility, and multi-collection batch processing.
 
-#### 🔹 [rag-framework](https://www.linkedin.com/in/mateus-restier/details/projects/) 🔒
+#### 🔹 [document-rag-framework](https://www.linkedin.com/in/mateus-restier/details/projects/) 🔒
 > LangGraph-orchestrated RAG framework for enriching economic analysis text with contextual information from a Qdrant vector store. Uses LLM-based relevance validation to prevent low-quality augmentation, with multi-query generation, configurable quality thresholds, and Azure OpenAI integration. Built for AWS SageMaker deployment.
 
 #### 🔹 [sound-dna](https://github.com/MateusRestier/sound-dna) 🔓
