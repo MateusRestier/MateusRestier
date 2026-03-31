@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Mateus%20Restier&fontSize=52&fontColor=e0e0e0&fontAlign=50&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20%26%20Cloud%20Data%20Engineering&descAlign=50&descAlignY=58&descSize=18&descFontColor=a0a0b0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Mateus%20Restier&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20%26%20Cloud%20Data%20Engineering&descAlign=50&descAlignY=58&descSize=18" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -107,18 +107,9 @@ I hold a **B.Sc. in Computer Science** and have a strong background in automatin
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MateusRestier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRestier&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 Whether it's about **AI, Cloud Engineering, Automation, or Retro Gaming**, I'm always happy to chat!
 📬 [LinkedIn](https://www.linkedin.com/in/mateus-restier) | ✉️ restier2001@gmail.com
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
