@@ -1,9 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=24&amp;height=180&amp;section=header&amp;text=Mateus%20Restier&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Data%20Scientist%20%7C%20AI%20%26%20Cloud%20Data%20Engineering&amp;descAlign=50&amp;descAlignY=58&amp;descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=24&amp;height=180&amp;section=header&amp;text=Mateus%20Restier&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Data%20Scientist%20%7C%20AI%20and%20Cloud%20Data%20Engineering&amp;descAlign=50&amp;descAlignY=58&amp;descSize=18" />
 
 <p align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=RAG+%26+LLM+Orchestration;Vector+Search+%26+Embeddings;Machine+Learning+%26+Forecasting;Cloud+Data+Engineering+(AWS+%2F+Snowflake);Turning+complex+data+into+strategic+insights)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=RAG+%26+LLM+Orchestration;Vector+Search+%26+Embeddings;Machine+Learning+%26+Forecasting;Cloud+Data+Engineering+(AWS+%2F+Snowflake);Turning+complex+data+into+strategic+insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
