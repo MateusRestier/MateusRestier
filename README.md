@@ -93,6 +93,9 @@ I hold a **B.Sc. in Computer Science** and have a strong background in automatin
 #### 🔹 Competitor Analysis — [competitor-analysis](https://www.linkedin.com/in/mateus-restier/details/projects/) 🔒
 > Competitor analysis automation pipeline: web scraping, data consolidation, and structured reporting to support strategic pricing and market positioning decisions.
 
+#### 🔹 Football DataOps Lakehouse — [football-dataops-lakehouse](https://github.com/MateusRestier/football-dataops-lakehouse) 🔓
+> Local football data lakehouse simulating AWS architecture (S3 → Athena → MWAA) using MinIO, DuckDB, Dagster, and Great Expectations — ingesting StatsBomb open data through a medallion pipeline (raw → validated → trusted).
+
 #### 🔹 JoyBind — [joybind](https://github.com/MateusRestier/joybind) 🔓
 > Maps controller buttons to custom keyboard strokes and absolute screen coordinates. Built with Python to simplify and automate macro interactions in games.
 
