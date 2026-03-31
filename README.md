@@ -1,18 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=24&amp;height=180&amp;section=header&amp;text=Mateus%20Restier&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Data%20Scientist%20%7C%20AI%20%26%20Cloud%20Data%20Engineering&amp;descAlign=50&amp;descAlignY=58&amp;descSize=18" />
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=RAG+%26+LLM+Orchestration;Vector+Search+%26+Embeddings;Machine+Learning+%26+Forecasting;Cloud+Data+Engineering+(AWS+%2F+Snowflake);Turning+complex+data+into+strategic+insights" alt="Typing SVG" />
-  </a>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=RAG+%26+LLM+Orchestration;Vector+Search+%26+Embeddings;Machine+Learning+%26+Forecasting;Cloud+Data+Engineering+(AWS+%2F+Snowflake);Turning+complex+data+into+strategic+insights)
+
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateus-restier" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mateus%20Restier-blue?style=for-the-badge&amp;logo=linkedin" />
-  </a>
-  <a href="mailto:restier2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-restier2001@gmail.com-red?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateus%20Restier-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateus-restier)
+[![Gmail](https://img.shields.io/badge/Gmail-restier2001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:restier2001@gmail.com)
+
 </p>
 
 ---
@@ -31,39 +29,36 @@ I hold a **B.Sc. in Computer Science** and have a strong background in automatin
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" />
-</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 **Cloud & Data Engineering**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&amp;logo=snowflake&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&amp;logo=duckdb&amp;logoColor=black" />
-  <img src="https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&amp;logo=dagster&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
-</p>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Vector Stores & AI Infra**
-<p align="left">
-  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-FF3E00?style=for-the-badge&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" />
-</p>
+
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF3E00?style=for-the-badge&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
