@@ -1,8 +1,9 @@
-<h1 align="center">Hey, I'm Mateus 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Mateus%20Restier&fontSize=52&fontColor=e0e0e0&fontAlign=50&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20%26%20Cloud%20Data%20Engineering&descAlign=50&descAlignY=58&descSize=18&descFontColor=a0a0b0" />
 
 <p align="center">
-  <b>Data Scientist | AI & Cloud Data Engineering | Automation Enthusiast</b><br>
-  Specialize in Generative AI (RAG), Machine Learning, and Cloud Architectures (AWS/Snowflake), turning complex data into strategic insights 💡
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=RAG+%26+LLM+Orchestration;Vector+Search+%26+Embeddings;Machine+Learning+%26+Forecasting;Cloud+Data+Engineering+(AWS+%2F+Snowflake);Turning+complex+data+into+strategic+insights" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -106,11 +107,18 @@ I hold a **B.Sc. in Computer Science** and have a strong background in automatin
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MateusRestier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRestier&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
 ### 🤝 Let's Connect!
 
 Whether it's about **AI, Cloud Engineering, Automation, or Retro Gaming**, I'm always happy to chat!
 📬 [LinkedIn](https://www.linkedin.com/in/mateus-restier) | ✉️ restier2001@gmail.com
 
----
-
-_"I believe in data with purpose — not just numbers, but stories that move people and businesses."_
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
